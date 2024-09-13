@@ -1,0 +1,4 @@
+[core]
+    remote = localstorage
+['remote "localstorage"']
+    url = /home/kali/Desktop/vs/car_insurance_planning/local_storage
