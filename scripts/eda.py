@@ -5,7 +5,7 @@ import matplotlib.pyplot as plt
 
 import pandas as pd
 
-def txt_to_csv(txt_file_path, csv_file_path, delimiter='\t'):
+def txt_to_csv(txt_file_path, csv_file_path, delimiter='|'):
    
     try:
         # Read the .txt file into a DataFrame, adjusting the delimiter as needed
