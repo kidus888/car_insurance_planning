@@ -3,4 +3,5 @@ matplotlib
 seaborn
 scipy
 numpy
-ztest
+statsmodels
+
